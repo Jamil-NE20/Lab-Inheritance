@@ -1,0 +1,13 @@
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\bin\Debug\netcoreapp3.1\SlackOfString.exe
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\bin\Debug\netcoreapp3.1\SlackOfString.deps.json
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\bin\Debug\netcoreapp3.1\SlackOfString.runtimeconfig.json
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\bin\Debug\netcoreapp3.1\SlackOfString.runtimeconfig.dev.json
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\bin\Debug\netcoreapp3.1\SlackOfString.dll
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\bin\Debug\netcoreapp3.1\SlackOfString.pdb
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\obj\Debug\netcoreapp3.1\SlackOfString.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\obj\Debug\netcoreapp3.1\SlackOfString.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\obj\Debug\netcoreapp3.1\SlackOfString.AssemblyInfoInputs.cache
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\obj\Debug\netcoreapp3.1\SlackOfString.AssemblyInfo.cs
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\obj\Debug\netcoreapp3.1\SlackOfString.dll
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\obj\Debug\netcoreapp3.1\SlackOfString.pdb
+C:\Users\Studerande\source\repos\Inheritance\SlackOfString\obj\Debug\netcoreapp3.1\SlackOfString.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\Studerande\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.exe
+C:\Users\Studerande\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.deps.json
+C:\Users\Studerande\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.runtimeconfig.json
+C:\Users\Studerande\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.runtimeconfig.dev.json
+C:\Users\Studerande\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.dll
+C:\Users\Studerande\source\repos\Inheritance\RandomList\bin\Debug\netcoreapp3.1\RandomList.pdb
+C:\Users\Studerande\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.csprojAssemblyReference.cache
+C:\Users\Studerande\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.csproj.CoreCompileInputs.cache
+C:\Users\Studerande\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.AssemblyInfoInputs.cache
+C:\Users\Studerande\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.AssemblyInfo.cs
+C:\Users\Studerande\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.dll
+C:\Users\Studerande\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.pdb
+C:\Users\Studerande\source\repos\Inheritance\RandomList\obj\Debug\netcoreapp3.1\RandomList.genruntimeconfig.cache
